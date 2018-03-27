@@ -1,16 +1,16 @@
 # Local Calendar
 Local Calendar
 
-Fonctionnalités 
+Fonctionnalités <br />
 
-Idée générale
+Idée générale<br />
 L’application va utiliser la technologie des IOT (Beacons), cette application va permettre de détecter un Beacon, celui-ci sera positionné devant un lieu d’intérêt. Une fois un Beacon détecté il renvoi une page web concernant ce lieu d’intérêt.
 
-Application
+Application<br />
 Dans notre cas, les Beacons, seront positionné devant des locaux de cours, et permettre aux utilisateurs de connaitre l’activité qu’il y aura dans ce local. Nous récupérons les résultats à partir du site http://calendar.ecam.be/ 
 L’utilisateur pourra choisir s’il veut afficher les résultats par jour, par semaine ou par mois.
 
-L’application doit donc :
+L’application doit donc :<br />
 1.	Détecter un Beacon
 2.	Traiter les données reçus
 3.	Afficher les informations
@@ -18,7 +18,7 @@ L’application doit donc :
 
 Il y aura 2 écrans :
 
-Un pour la détection 
+Un pour la détection <br />
 Un pour l'affichage
 
  
